@@ -4,3 +4,5 @@
 3. Having an initializer with 10 arguments is not a good way
 4. Hence we can opt for 'piecewise construction'
 5. Builder provides an API for constructing the object step-by-step
+
+<img src="/images/builder.png"></img>

@@ -26,3 +26,7 @@ which means the objects of the subclasses should behave in the same way as the o
 ## Interface Segregation Principle (ISP)
 1. interface-segregation principle (ISP) states that no client should be forced to depend on methods it does not use. 
 ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy
+
+## Dependency Inversion Principle
+1. high level classes should not depend directly on low level modules or classes, they should dependent on abstraction and not
+implementation

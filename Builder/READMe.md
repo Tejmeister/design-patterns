@@ -5,4 +5,4 @@
 4. Hence we can opt for 'piecewise construction'
 5. Builder provides an API for constructing the object step-by-step
 
-![](images/builder.PNG)
+![](images/builder.png)

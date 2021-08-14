@@ -1,4 +1,4 @@
-#SOLID Principles:
+# SOLID Principles:
 
 ## Single Responsibility Principle (SRP)
 1. Also known as separation of concerns

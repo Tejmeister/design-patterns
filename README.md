@@ -14,3 +14,10 @@ All Images source is https://refactoring.guru/
 5. Builder provides an API for constructing the object step-by-step
 
 ![](images/builder.PNG)
+
+## Factory Pattern
+1. Outsourcing the creation of object
+2. Different from Builder as it is not piecewise but wholesale
+3. Can create hierarchies of type (Abstract Factory)
+
+![](images/factory.PNG)

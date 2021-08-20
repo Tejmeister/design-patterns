@@ -28,3 +28,8 @@ All Images source is https://refactoring.guru/
 3. A prototype is a partially or fully initialized object that you copy (clone) and make use of it
 
 ![](images/prototype.PNG)
+
+
+## Singleton Pattern
+
+![](images/singleton.PNG)

@@ -21,3 +21,10 @@ All Images source is https://refactoring.guru/
 3. Can create hierarchies of type (Abstract Factory)
 
 ![](images/factory.PNG)
+
+## Prototype Pattern
+1. Complicated objects (eg. cars) are not created from scratch each time. We have an existing design and have a prototype first and then we just clone or copy the prototype
+2. This helps to create objects without knowing in details the components of the class
+3. A prototype is a partially or fully initialized object that you copy (clone) and make use of it
+
+![](images/prototype.PNG)

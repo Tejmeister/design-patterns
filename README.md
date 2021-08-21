@@ -35,5 +35,8 @@ All Images source is https://refactoring.guru/
 ![](images/creational_design_patterns/prototype.PNG)
 
 ## Singleton Pattern
+1. Lets you ensure that a class has only one instance, while providing a global access point to this instance.
+2. Used when a single instance is required of some class throughout the project.
+3. For example, you may want only a single connection object to the database and every class can use the same object
 
 ![](images/creational_design_patterns/singleton.PNG)

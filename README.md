@@ -40,3 +40,10 @@ All Images source is https://refactoring.guru/
 3. For example, you may want only a single connection object to the database and every class can use the same object
 
 ![](images/creational_design_patterns/singleton.PNG)
+
+
+## Adapter Pattern
+1. A construct which adapts an existing interface X to conform to the required interface Y
+2. It allows objects with incompatible interfaces to collaborate
+
+![](images/structural_design_patterns/adapter.PNG)

@@ -47,3 +47,15 @@ All Images source is https://refactoring.guru/
 2. It allows objects with incompatible interfaces to collaborate
 
 ![](images/structural_design_patterns/adapter.PNG)
+
+
+## Bridge Pattern
+1. Prevents 'cartesion product' complexity explosion
+	a. 2 shapes and 2 colors (2X2). Add another shape and combinations become (3X2)
+2. A mechanism that decouples an interface from an implementation
+3. Difficult to maintain a huge monolith
+4. Hence split into smaller components for easier maintainability
+
+![](images/structural_design_patterns/bridge1.PNG)
+
+![](images/structural_design_patterns/bridge1.PNG)

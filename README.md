@@ -58,4 +58,4 @@ All Images source is https://refactoring.guru/
 
 ![](images/structural_design_patterns/bridge1.PNG)
 
-![](images/structural_design_patterns/bridge1.PNG)
+![](images/structural_design_patterns/bridge2.PNG)

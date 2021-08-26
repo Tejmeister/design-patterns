@@ -60,7 +60,7 @@ if __name__ == '__main__':
 	circle.resize(2)
 	circle.draw()
 
-	square = Square(vector, 10)
+	square = Square(raster, 10)
 	square.draw()
 	square.resize(0.2)
 	square.draw()

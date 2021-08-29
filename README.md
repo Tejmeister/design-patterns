@@ -77,3 +77,13 @@ All Images source is https://refactoring.guru/
 2. eg. git. Git saves a single blob file across multiple branche unless and until there is any change to that file
 
 ![](images/structural_design_patterns/flyweight.PNG)
+
+
+## Proxy Pattern
+
+1. Lets you provide a substitute for another object. A proxy controls the access to the original object allowing you to perform something either before or after the request goes to the original object
+2. Proxy and Original class should provide the same interface to the client
+
+![](images/structural_design_patterns/proxy1.PNG)
+
+![](images/structural_design_patterns/proxy2.PNG)

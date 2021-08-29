@@ -69,3 +69,11 @@ All Images source is https://refactoring.guru/
 4. Use the pattern when you want the client code to treat both simple and complex elements uniformly.
 
 ![](images/structural_design_patterns/composite.JPG)
+
+
+## Flyweight Pattern
+
+1. Lets you fit more objects into the available amount of RAM by sharing common parts of state between multiple objects instead of keeping all of the data in each object
+2. eg. git. Git saves a single blob file across multiple branche unless and until there is any change to that file
+
+![](images/structural_design_patterns/flyweight.PNG)

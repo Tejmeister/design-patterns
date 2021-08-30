@@ -87,3 +87,9 @@ All Images source is https://refactoring.guru/
 ![](images/structural_design_patterns/proxy1.PNG)
 
 ![](images/structural_design_patterns/proxy2.PNG)
+
+
+## Facade Pattern
+1. Provides a simplified (maybe limited) interface to a complex set of classes, library or framework.
+2. Example, starting a computer. You need to only press the start button and the computer does a series of steps internally
+Here the start button is a facade

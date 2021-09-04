@@ -52,4 +52,4 @@ class VideoConverter:
 
 if __name__ == "__main__":
 	convertor = VideoConverter()
-	convertor.convert("facade-pattern-intro.mp3", "mp4")
+	convertor.convert("facade-pattern-intro.mp4", "mp4")

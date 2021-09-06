@@ -100,8 +100,14 @@ Here the start button is a facade
 1. lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors
 2. Eg. Counter Strike. you have Player baseclass and Counter Terrorist and Terrorist. They can be decorated with behaviours like using different weapons. Different weapons can be bought with different money and hence is known at runtime
 
-## Chain of Responsibilty
+## Chain of Responsibilty Pattern
 1. lets you pass requests along a chain of handlers
 2. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain
 
 ![](images/behavioral_design_patterns/chainofresponsibility.PNG)
+
+
+## Command Pattern
+1. turns a request into a stand-alone object that contains all information about the request. 
+2. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
+
